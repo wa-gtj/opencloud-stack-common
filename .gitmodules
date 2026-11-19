@@ -1,0 +1,4 @@
+[submodule "opencloud-compose"]
+	path = opencloud-compose
+	url = git@github.com:wa-gtj/opencloud-compose.git
+	branch = quadlets-readiness
